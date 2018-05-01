@@ -1,1 +1,1 @@
-# ES6-promise-GIF
+# React-GIF-SearchEngine
